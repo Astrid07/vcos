@@ -1,6 +1,6 @@
 # vcos
 
-![image](https://user-images.githubusercontent.com/58990277/71033113-04fee700-2117-11ea-9f99-0a38a4419c19.png)
+![image](https://user-images.githubusercontent.com/58990277/71033702-257b7100-2118-11ea-87d7-103cacf60963.png)
 
 Homepage for Astrid and Linnea's **school** business
 
