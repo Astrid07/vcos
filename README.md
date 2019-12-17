@@ -1,4 +1,7 @@
 # vcos
+
+![download.jpeg]()
+
 Homepage for Astrid and Linnea's **school** business
 
 * Test1
@@ -7,5 +10,10 @@ Homepage for Astrid and Linnea's **school** business
 ## Another heading
 
 1. TEST2
+
 2. TEST3
+
+3. sdsfjsdjhsd
+
+   
 
