@@ -1,6 +1,6 @@
 # vcos
 
-![download.jpeg]()
+![download.jpeg](/Users/astridsofierichter/Documents/GitHub/vcos/download.jpeg)
 
 Homepage for Astrid and Linnea's **school** business
 
