@@ -12,7 +12,7 @@ vi lager både scrunchies og toalettmapper med borrelå.
 
 * Superpakke (to scrunchies og en toalettmappe) koster 100kr
 
-  det kommer mer info om hvor vi skal selge og når senere på nettsiden
+  det kommer mer info om hvor vi skal selge og når senere på nettsiden.
 
 
 
