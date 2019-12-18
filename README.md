@@ -1,19 +1,22 @@
-# vcos
+# 
 
 ![image](https://user-images.githubusercontent.com/58990277/71033983-adfa1180-2118-11ea-92d7-5c6a3dc02fd7.png)
 
-Homepage for Astrid and Linnea's **school** business
+Hei vi er elevbedriften vsco's 
 
-* Test1
-* Test2
+vi lager både scrunchies og toalettmapper med borrelå.
 
-## Another heading
+* Scrunchies koster 35kr
 
-1. TEST2
+* Toalettmapper koster 50kr
 
-2. TEST3
+* Superpakke (to scrunchies og en toalettmappe) koster 100kr
 
-3. TEST4
+  
 
-   
+
+
+
+
+
 
