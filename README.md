@@ -4,7 +4,7 @@
 
 Hei vi er elevbedriften vsco's 
 
-vi lager både scrunchies og toalettmapper med borrelå.
+vi lager både scrunchies og toalettmapper med borrelås.
 
 * Scrunchies koster 35kr
 
