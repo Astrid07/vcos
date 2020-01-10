@@ -10,9 +10,11 @@ vi lager både scrunchies og toalettmapper med borrelås.
 
 * Toalettmapper koster 50kr
 
-* Superpakke (to scrunchies og en toalettmappe) koster 100kr
+* Superpakke (to scrunchies og en toalettmappe) koster 100kr 
 
   det kommer mer info om hvor vi skal selge og når senere på nettsiden.
+
+   vi som lager elevbedriften vsco's heter linnea hoås Rolfseng og Astrid sofie richter.
 
 
 
