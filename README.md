@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/58990277/71033983-adfa1180-2118-11ea-92d7-5c6a3dc02fd7.png)
 
-Hei vi er elevbedriften vsco's, 
+   Hei vi er elevbedriften vsco's.
 
-vi lager både scrunchies og toalettmapper med borrelås.
+   Vi lager både scrunchies og toalettmapper med borrelås.
 
 * Scrunchies koster 35kr
 
