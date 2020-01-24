@@ -14,11 +14,7 @@
 
   det kommer mer info om hvor vi skal selge og når senere på nettsiden.
 
-   vi som lager elevbedriften vsco's heter linnea hoås Rolfseng og Astrid sofie richter.
-
-
-
-
+   vi som lager elevbedriften vsco's heter linnea hoås Rolfseng og Astrid Sofie Richter.
 
 
 
